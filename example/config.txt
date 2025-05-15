@@ -1,0 +1,2 @@
+Prefix plugins/HDDA/example/
+Plugin HDDA inputfile parameters.train.txt outputfile output.rds
